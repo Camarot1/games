@@ -85,6 +85,10 @@ a {
     transition: 0.3s ease opacity;
     
 }
+.gamePlaces__gameStart:hover{
+    color: red;
+    cursor: pointer;
+}
 
 .hidden {
     opacity: 0;
